@@ -4,5 +4,18 @@
 }
 
 #likebox {
-    font-size: 2.5em;
+    font-size: 2em;
+}
+#likebox a {
+    text-decoration: none;
+}
+
+#album {
+    height: 200px;
+}
+
+#ayok-significa {
+    position: absolute;
+    left: 20px;
+    bottom: 5px;
 }
