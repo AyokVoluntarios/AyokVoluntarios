@@ -1,7 +1,7 @@
 title: AYOK
 email: j+ayok@orpinel.com
 description: Sitio web de AYOK.
-baseurl: "AyokVoluntarios" # the subpath of your site, e.g. /blog
-url: "https://ayokvoluntarios.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ayok.mx" # the base hostname & protocol for your site, e.g. http://example.com
 
 timezone: America/Mexico_City
